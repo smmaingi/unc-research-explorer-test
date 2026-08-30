@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T05:12:12.861541Z",
-  "total_faculty": 2772,
+  "generated_at": "2026-08-30T09:31:04.679474Z",
+  "total_faculty": 2781,
   "departments": [
     "Medicine \u2014 Cardiology",
     "Medicine \u2014 Endocrinology & Metabolism",
@@ -6395,6 +6395,42 @@
       "role": "",
       "departments": [
         "Medicine \u2014 Rheumatology, Allergy & Immunology"
+      ]
+    },
+    {
+      "name": "James Mayo",
+      "profile_url": "https://www.med.unc.edu/pediatrics/people/james-mayo-md-mph/",
+      "department": "Pediatrics",
+      "role": "Wilm",
+      "departments": [
+        "Pediatrics"
+      ]
+    },
+    {
+      "name": "Rachel Fazenbaker",
+      "profile_url": "https://www.med.unc.edu/pediatrics/people/rachel-fazenbaker-md/",
+      "department": "Pediatrics",
+      "role": "Wilm",
+      "departments": [
+        "Pediatrics"
+      ]
+    },
+    {
+      "name": "M. Camille Haywood",
+      "profile_url": "https://www.med.unc.edu/pediatrics/people/m-camille-haywood-md/",
+      "department": "Pediatrics",
+      "role": "Wilm",
+      "departments": [
+        "Pediatrics"
+      ]
+    },
+    {
+      "name": "Taylor Welch",
+      "profile_url": "https://www.med.unc.edu/pediatrics/people/taylor-welch-md/",
+      "department": "Pediatrics",
+      "role": "Wilm",
+      "departments": [
+        "Pediatrics"
       ]
     },
     {
@@ -14384,16 +14420,6 @@
       ]
     },
     {
-      "name": "Weiting Zhang",
-      "profile_url": "https://www.med.unc.edu/neurology/people/weiting-zhang-md-phd/",
-      "department": "Neurology",
-      "role": "Faculty-Researcher",
-      "departments": [
-        "Neurology"
-      ],
-      "pubmed_hint": "MYNCBI:https://www.ncbi.nlm.nih.gov/myncbi/weiting.zhang.1/bibliography/public"
-    },
-    {
       "name": "Susan Wilson",
       "profile_url": "https://www.med.unc.edu/neurology/people/susan-wilson-dnp-rn-msn-anp-c/",
       "department": "Neurology",
@@ -14898,6 +14924,15 @@
       ]
     },
     {
+      "name": "Hendr\u00e9e Jones",
+      "profile_url": "https://www.med.unc.edu/obgyn/people/hendree-jones-phd/",
+      "department": "Obstetrics & Gynecology",
+      "role": "Department-Of-Obstetrics-And-Gynecology",
+      "departments": [
+        "Obstetrics & Gynecology"
+      ]
+    },
+    {
       "name": "Kari Hacker",
       "profile_url": "https://www.med.unc.edu/obgyn/people/kari-hacker-md-phd/",
       "department": "Obstetrics & Gynecology",
@@ -15221,6 +15256,15 @@
       "profile_url": "https://www.med.unc.edu/obgyn/people/catherine-j-vladutiu/",
       "department": "Obstetrics & Gynecology",
       "role": "Department-Of-Obstetrics-And-Gynecology",
+      "departments": [
+        "Obstetrics & Gynecology"
+      ]
+    },
+    {
+      "name": "Ginger Hocutt",
+      "profile_url": "https://www.med.unc.edu/obgyn/people/ginger-hocutt/",
+      "department": "Obstetrics & Gynecology",
+      "role": "Department-Clinical-Providers",
       "departments": [
         "Obstetrics & Gynecology"
       ]
@@ -16364,6 +16408,15 @@
       ]
     },
     {
+      "name": "Janiece Glover",
+      "profile_url": "https://www.med.unc.edu/pathology/directory/janiece-glover-phd-ms/",
+      "department": "Pathology & Laboratory Medicine",
+      "role": "",
+      "departments": [
+        "Pathology & Laboratory Medicine"
+      ]
+    },
+    {
       "name": "Virginia L. Godfrey",
       "profile_url": "https://www.med.unc.edu/pathology/directory/vgodfrey/",
       "department": "Pathology & Laboratory Medicine",
@@ -16760,8 +16813,7 @@
       "role": "",
       "departments": [
         "Pathology & Laboratory Medicine"
-      ],
-      "pubmed_hint": "Distinguished Professor"
+      ]
     },
     {
       "name": "Andre Phelan",
@@ -16920,6 +16972,15 @@
     {
       "name": "James A. Swenberg",
       "profile_url": "https://www.med.unc.edu/pathology/directory/james-a-swenberg/",
+      "department": "Pathology & Laboratory Medicine",
+      "role": "",
+      "departments": [
+        "Pathology & Laboratory Medicine"
+      ]
+    },
+    {
+      "name": "Desiree Talabong",
+      "profile_url": "https://www.med.unc.edu/pathology/directory/desiree-talabong-md/",
       "department": "Pathology & Laboratory Medicine",
       "role": "",
       "departments": [
@@ -18619,15 +18680,6 @@
       "pubmed_hint": "MYNCBI:http://www.ncbi.nlm.nih.gov/myncbi/1rQtmwy9kc45X/bibliography/52024401/public/?sort=date&amp;direction=ascending/public"
     },
     {
-      "name": "Maria Melendez-Gonzalez",
-      "profile_url": "https://www.med.unc.edu/derm/directory/maria-melendez-gonzalez-md/",
-      "department": "Dermatology",
-      "role": "",
-      "departments": [
-        "Dermatology"
-      ]
-    },
-    {
       "name": "David Rubenstein",
       "profile_url": "https://www.med.unc.edu/derm/directory/david-rubenstein-md-phd/",
       "department": "Dermatology",
@@ -18723,6 +18775,15 @@
     {
       "name": "Allison Weis",
       "profile_url": "https://www.med.unc.edu/derm/directory/allison-weis-pa/",
+      "department": "Dermatology",
+      "role": "",
+      "departments": [
+        "Dermatology"
+      ]
+    },
+    {
+      "name": "Stefan Hansen",
+      "profile_url": "https://www.med.unc.edu/derm/directory/stefan-hansen-md/",
       "department": "Dermatology",
       "role": "",
       "departments": [
@@ -19938,6 +19999,15 @@
       ]
     },
     {
+      "name": "Rachel Sircar",
+      "profile_url": "https://www.med.unc.edu/fammed/directory/rachel-sircar-md/",
+      "department": "Family Medicine",
+      "role": "",
+      "departments": [
+        "Family Medicine"
+      ]
+    },
+    {
       "name": "Kelly Lacy Smith",
       "profile_url": "https://www.med.unc.edu/fammed/directory/kelly-lacy-smith-md/",
       "department": "Family Medicine",
@@ -20587,6 +20657,15 @@
     {
       "name": "Beatrice Y. Brewington",
       "profile_url": "https://www.med.unc.edu/ophth/directory/beatrice-y-brewington-md/",
+      "department": "Ophthalmology",
+      "role": "",
+      "departments": [
+        "Ophthalmology"
+      ]
+    },
+    {
+      "name": "Catherine Cuite",
+      "profile_url": "https://www.med.unc.edu/ophth/directory/catherine-cuite-md/",
       "department": "Ophthalmology",
       "role": "",
       "departments": [
@@ -22236,7 +22315,8 @@
       "role": "",
       "departments": [
         "Lineberger Comprehensive Cancer Center"
-      ]
+      ],
+      "pubmed_hint": "MYNCBI:https://www.ncbi.nlm.nih.gov/myncbi/allison.deal.1/bibliography/public"
     },
     {
       "name": "Elizabeth Claire Dees",
