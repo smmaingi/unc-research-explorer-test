@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T10:47:17.163685Z",
-  "total_faculty": 552,
+  "generated_at": "2026-11-08T10:30:39.616379Z",
+  "total_faculty": 554,
   "departments": [
     "Medicine \u2014 Cardiology",
     "Medicine \u2014 Endocrinology & Metabolism",
@@ -469,6 +469,15 @@
       ]
     },
     {
+      "name": "Kia Alston",
+      "profile_url": "https://www.med.unc.edu/medicine/cardiology/people/kia-alston/",
+      "department": "Medicine \u2014 Cardiology",
+      "role": "",
+      "departments": [
+        "Medicine \u2014 Cardiology"
+      ]
+    },
+    {
       "name": "Barbara Reid-Mills",
       "profile_url": "https://www.med.unc.edu/medicine/cardiology/people/barbara-reid-mills/",
       "department": "Medicine \u2014 Cardiology",
@@ -502,6 +511,15 @@
       "role": "",
       "departments": [
         "Medicine \u2014 Cardiology"
+      ]
+    },
+    {
+      "name": "Drew Barber",
+      "profile_url": "https://www.med.unc.edu/pediatrics/people/drew-barber-md/",
+      "department": "Pediatrics",
+      "role": "Pulm",
+      "departments": [
+        "Pediatrics"
       ]
     },
     {
@@ -748,15 +766,6 @@
       ]
     },
     {
-      "name": "Keisha L. Gibson",
-      "profile_url": "https://www.med.unc.edu/pediatrics/people/keisha-l-gibson-md-mph/",
-      "department": "Pediatrics",
-      "role": "",
-      "departments": [
-        "Pediatrics"
-      ]
-    },
-    {
       "name": "Ian Davis",
       "profile_url": "https://www.med.unc.edu/pediatrics/people/ian-davis-md-phd/",
       "department": "Pediatrics",
@@ -867,6 +876,15 @@
     {
       "name": "Elizabeth Kotzen",
       "profile_url": "https://www.med.unc.edu/pediatrics/people/elizabeth-kotzen-md/",
+      "department": "Pediatrics",
+      "role": "Neph",
+      "departments": [
+        "Pediatrics"
+      ]
+    },
+    {
+      "name": "Keisha L. Gibson",
+      "profile_url": "https://www.med.unc.edu/pediatrics/people/keisha-l-gibson-md-mph/",
       "department": "Pediatrics",
       "role": "Neph",
       "departments": [
@@ -1386,7 +1404,8 @@
       "departments": [
         "Pediatrics",
         "Lineberger Comprehensive Cancer Center"
-      ]
+      ],
+      "pubmed_hint": "MYNCBI:https://www.ncbi.nlm.nih.gov/myncbi/1VEChdcTnnzQF/bibliography/public"
     },
     {
       "name": "Catherine Iachthuber Trub",
@@ -2412,8 +2431,7 @@
       "role": "Hemonc",
       "departments": [
         "Pediatrics"
-      ],
-      "pubmed_hint": "Hipps john"
+      ]
     },
     {
       "name": "Maria O. Boucher",
@@ -2719,8 +2737,7 @@
       "role": "",
       "departments": [
         "Pediatrics"
-      ],
-      "pubmed_hint": "MYNCBI:https://www.ncbi.nlm.nih.gov/myncbi/misty.good.1/bibliography/public"
+      ]
     },
     {
       "name": "Edwin Kim",
@@ -2975,15 +2992,6 @@
       ]
     },
     {
-      "name": "Meghan Rebuli",
-      "profile_url": "https://www.med.unc.edu/pediatrics/people/meghan-rebuli-phd/",
-      "department": "Pediatrics",
-      "role": "Ai",
-      "departments": [
-        "Pediatrics"
-      ]
-    },
-    {
       "name": "Anusha Penumarti",
       "profile_url": "https://www.med.unc.edu/pediatrics/people/anusha-penumarti-phd/",
       "department": "Pediatrics",
@@ -3182,18 +3190,36 @@
       ]
     },
     {
-      "name": "Rami Al-Rohil",
-      "profile_url": "https://www.med.unc.edu/derm/directory/rami-al-rohil-mbbs/",
+      "name": "Stefan Hansen",
+      "profile_url": "https://www.med.unc.edu/derm/directory/stefan-hansen-md/",
+      "department": "Dermatology",
+      "role": "",
+      "departments": [
+        "Dermatology"
+      ]
+    },
+    {
+      "name": "Caitlin Haydek",
+      "profile_url": "https://www.med.unc.edu/derm/directory/caitlin-haydek-md/",
+      "department": "Dermatology",
+      "role": "",
+      "departments": [
+        "Dermatology"
+      ]
+    },
+    {
+      "name": "Diana McShane",
+      "profile_url": "https://www.med.unc.edu/derm/directory/diana-mcshane-md/",
       "department": "Dermatology",
       "role": "",
       "departments": [
         "Dermatology"
       ],
-      "pubmed_hint": "MYNCBI:https://www.ncbi.nlm.nih.gov/myncbi/rami.al-rohil.1/bibliography/public"
+      "pubmed_hint": "MYNCBI:https://www.ncbi.nlm.nih.gov/myncbi/1z5bNUpzvueAsh/bibliography/public"
     },
     {
-      "name": "Donna Culton",
-      "profile_url": "https://www.med.unc.edu/derm/directory/donna-culton-md-phd/",
+      "name": "Dean Morrell",
+      "profile_url": "https://www.med.unc.edu/derm/directory/dean-morrell-md/",
       "department": "Dermatology",
       "role": "",
       "departments": [
@@ -3201,8 +3227,8 @@
       ]
     },
     {
-      "name": "Karishma Desai",
-      "profile_url": "https://www.med.unc.edu/derm/directory/karishma-desai/",
+      "name": "Elizabeth Nieman",
+      "profile_url": "https://www.med.unc.edu/derm/directory/elizabeth-nieman-md/",
       "department": "Dermatology",
       "role": "",
       "departments": [
@@ -3210,8 +3236,8 @@
       ]
     },
     {
-      "name": "Jayson Miedema",
-      "profile_url": "https://www.med.unc.edu/derm/directory/jayson-miedema-md/",
+      "name": "Jennifer Adair",
+      "profile_url": "https://www.med.unc.edu/derm/directory/jennifer-adair-pa/",
       "department": "Dermatology",
       "role": "",
       "departments": [
@@ -3219,17 +3245,8 @@
       ]
     },
     {
-      "name": "Kimberly Cheek",
-      "profile_url": "https://www.med.unc.edu/derm/directory/kimberly-cheek/",
-      "department": "Dermatology",
-      "role": "",
-      "departments": [
-        "Dermatology"
-      ]
-    },
-    {
-      "name": "Greg Sturtz",
-      "profile_url": "https://www.med.unc.edu/derm/directory/greg-sturtz/",
+      "name": "Hyee Jin Ahn",
+      "profile_url": "https://www.med.unc.edu/derm/directory/hyeejin-ahn-pa/",
       "department": "Dermatology",
       "role": "",
       "departments": [
